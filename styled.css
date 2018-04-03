@@ -1,0 +1,17 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15px;
+}
+
+p {
+    font-family: 'IM Fell French Canon SC', serif;
+    margin-left: 1.66%;
+    font-size: 30px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 37%;
+    padding-bottom: 20px;
+}
